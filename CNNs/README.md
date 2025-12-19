@@ -483,7 +483,7 @@ CNNs are powerful neural networks specifically designed for processing grid-stru
 
 ### Datasets
 - **MNIST**: Handwritten digits
-- **CIFAR-10/100**: Small images, 10 classes
+- **[CIFAR-10/100](https://github.com/jibekgupta/Neural-Network/blob/main/CNNs/Implementation%20of%20a%20CNN%20based%20Image%20Classifier.ipynb)**: Small images, 10 classes
 - **ImageNet**: Large-scale, 1000 classes
 - **COCO**: Object detection and segmentation
 
